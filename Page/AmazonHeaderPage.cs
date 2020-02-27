@@ -61,6 +61,10 @@ namespace Amazon1.Page
                     break;
             }
         }
+        public void abcd()
+        {
+            
+        }
         public void VerifyHeader(string link)
         {
             switch (link)
